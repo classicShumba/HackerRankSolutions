@@ -16,7 +16,6 @@ public class Main {
     }
 
     private static void solution(int a, double b, String c) {
-
         System.out.println("String: " + c);
         System.out.println("Double: " + b);
         System.out.println("Int: " + a);
